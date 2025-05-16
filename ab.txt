@@ -1,0 +1,32 @@
+Q.1Agile & jira
+
+create 2 user stories associate with testing task along with subtasks, estmate and owner
+- Create 1 epic and associate user stories with it.
+- Create sprint
+- Run sprint
+- Complete sprint with 1 story remaining.
+
+Q.2 Selenium
+- Create Maven Project
+- Add selenium dependencies
+- Lauch the chrome/Edge Browser
+- Launch URL (https://demo.applitools.com/)
+- Maximize window
+- find the web Element User Id using relative x path and enter email id
+- find the web element password using id and enter '123456'
+
+
+Q.3 Docker. Show how to execute the below commands. Start, stop the container
+- Rm
+-Build
+- ls
+- help
+
+Q.4 OS shell script
+- Performing Mathematical Operation without Storing
+- Print any 3 environment variable using bash script
+
+Q.5 GIT commands
+- Create 2 branchs
+- Swap the Branch
+- Merge the branch
